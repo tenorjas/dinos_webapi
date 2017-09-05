@@ -27,6 +27,7 @@ namespace dinos_webapi.Models
             var Triceratops = new DinosModel{
                 DinoId = 1,
                 DinoName = "Triceratops",
+                DinoColor = "Brown",
                 DinoSize = "Medium-Large",
                 DinoHabitats = "Plains"
             };
@@ -34,6 +35,7 @@ namespace dinos_webapi.Models
             var TRex = new DinosModel{
                 DinoId = 2,
                 DinoName = "T-Rex",
+                DinoColor = "Grey",
                 DinoSize = "Large",
                 DinoHabitats = "Plains"
             };
@@ -41,6 +43,7 @@ namespace dinos_webapi.Models
             var Stegosaurus = new DinosModel{
                 DinoId = 3,
                 DinoName = "Stegosaurus",
+                DinoColor = "Grey",
                 DinoSize = "Medium-Large",
                 DinoHabitats = "Plains"
             };
